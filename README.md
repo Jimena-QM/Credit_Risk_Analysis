@@ -11,39 +11,42 @@ For this analysis we will define the best model leaning more towards a high reca
 
 ## Results
 ### Naive Random Oversampling
-Balanced accuracy score: 64.4%
-High risk Precision: 1%
-High risk Recall: 69%
+- Balanced accuracy score: 64.4%
+- High risk Precision: 1%
+- High risk Recall: 69%
 
-![Naive](https://github.com/Jimena-QM/credit_risk_analysis/blob/main/images/1_naive_random.jpg)
+![Naive](https://github.com/Jimena-QM/Credit_Risk_Analysis/blob/main/images/1_naive_random.JPG)
+
 
 ### SMOTE
-Balanced accuracy score: 66.3%
-High risk Precision: 1%
-High risk Recall: 63%
+- Balanced accuracy score: 66.3%
+- High risk Precision: 1%
+- High risk Recall: 63%
 
-![Smote](https://github.com/Jimena-QM/credit_risk_analysis/blob/main/images/2_smote.jpg)
+![Smote](https://github.com/Jimena-QM/Credit_Risk_Analysis/blob/main/images/2_smote.JPG)
+
 
 ### Cluster Centroids
-Balanced accuracy score: 54.4%
-High risk Precision: 1%
-High risk Recall: 69%
+- Balanced accuracy score: 54.4%
+- High risk Precision: 1%
+- High risk Recall: 69%
 
-![Centroids](https://github.com/Jimena-QM/credit_risk_analysis/blob/main/images/3_centroids.jpg)
+![Centroids](https://github.com/Jimena-QM/Credit_Risk_Analysis/blob/main/images/3_centroids.JPG)
+
 
 ### SMOTEENN
-Balanced accuracy score: 63.9%
-High risk Precision: 1%
-High risk Recall: 70%
+- Balanced accuracy score: 63.9%
+- High risk Precision: 1%
+- High risk Recall: 70%
 
-![Smoteenn](https://github.com/Jimena-QM/credit_risk_analysis/blob/main/images/4_smoteenn.jpg)
+![Smoteenn](https://github.com/Jimena-QM/Credit_Risk_Analysis/blob/main/images/4_smoteenn.JPG)
 
 ### Balanced Random Forest
-Balanced accuracy score: 78.9%
-High risk Precision: 3%
-High risk Recall: 70%
+- Balanced accuracy score: 78.9%
+- High risk Precision: 3%
+- High risk Recall: 70%
 
-![Random_Forest](https://github.com/Jimena-QM/credit_risk_analysis/blob/main/images/5_random_forest.jpg)
+![Random_Forest](https://github.com/Jimena-QM/Credit_Risk_Analysis/blob/main/images/5_random_forest.JPG)
 
 ### Easy Ensemble AdaBoost
 Balanced accuracy score: 93.2%
@@ -51,7 +54,7 @@ High risk Precision: 9%
 High risk Recall: 92%
     AdaBoost has the best scores of all models tested. Highest accuracy, precision and recall. 
 
-![Adaboost](https://github.com/Jimena-QM/credit_risk_analysis/blob/main/images/6_adaboost.jpg)
+![Adaboost](https://github.com/Jimena-QM/Credit_Risk_Analysis/blob/main/images/6_adaboost.JPG)
 
 ## Summary
 
